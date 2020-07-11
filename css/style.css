@@ -9,7 +9,7 @@
 body {
   color: #424344;
   font-family: 'Open Sans', helvetica, arial, sans-serif;
-      font-size: 15px;
+      font-size: 17px;
 }
 span.navy {
   color: #1a73e8;
@@ -26,10 +26,10 @@ a.navy-link:hover {
 }
 section p {
   color: #555;
-  font-size: 15px;
+  font-size: 17px;
 }
 address {
-  font-size: 16px;
+  font-size: 17px;
 }
 h1 {
   margin-top: 10px;
@@ -294,7 +294,7 @@ color: #c7c7c7;
   font-size: 32px;
   text-transform: uppercase; 
   text-shadow: none;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.1px;
 }
 .carousel-caption h2 {
   font-weight: 300;
@@ -303,7 +303,7 @@ color: #c7c7c7;
   text-transform: none; 
   text-shadow: none;
   letter-spacing: +0.5px;
-  line-height: 1.3em;
+  line-height: 1.4em;
 }
 .carousel-caption h2 i{
   font-size: 0.7em;
@@ -330,14 +330,16 @@ color: #c7c7c7;
   padding-top: 20px;
 }
 .services h2 {
-  font-size: 20px;
-  letter-spacing: -0.5px;
+  font-size: 30px;
+  letter-spacing: -0.3px;
   font-weight: 500;
+  line-height: normal;
   text-transform: uppercase;
 }
-/*.services p {
-  font-size: 14px;
-}*/
+.services h3 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
 .features-block {
   /* margin-top: 30px; */
   padding: 16px;
@@ -355,7 +357,7 @@ color: #c7c7c7;
   color: #1a73e8;
 }
 .features h2 {
-  font-size: 24px;
+  font-size: 30px;
   margin-top: 5px;
   font-weight: 500;
 
