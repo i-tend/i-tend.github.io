@@ -439,6 +439,10 @@ li.pricing-title {
   font-size: 22px;
   font-weight: 600;
 }
+.features li {
+  padding-bottom: 1rem;
+}
+
 .testimonials {
   padding-top: 80px;
   padding-bottom: 90px;
